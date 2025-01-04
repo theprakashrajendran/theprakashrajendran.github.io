@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -105,8 +104,8 @@
         <h2>Contact</h2>
         <div class="card">
             <p>Feel free to reach out to discuss opportunities, projects, or just to say hi!</p>
-            <p>Email: <a href="mailto:prakash@example.com">prakash@example.com</a></p>
-            <p>LinkedIn: <a href="https://linkedin.com/in/prakashrajendran" target="_blank">linkedin.com/in/prakashrajendran</a></p>
+            <p>Email: <a href="mailto:rprakash22389@gmail.com@example.com">rprakash22389@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/theprakashrajendran" target="_blank">linkedin.com/in/theprakashrajendran</a></p>
             <p>GitHub: <a href="https://github.com/theprakashrajendran" target="_blank">github.com/theprakashrajendran</a></p>
         </div>
     </section>
