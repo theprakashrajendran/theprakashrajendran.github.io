@@ -139,7 +139,7 @@
                     <i class="fas fa-envelope"></i>
                 </a>
             </div>
-            <a href="https://github.com/theprakashrajendran/theprakashrajendran.github.io/blob/main/PrakashRajendranResume.pdf"  target="_blank" class="button" download>Download Resume</a>
+            <a href="https://drive.google.com/file/d/1W1K5yyTm7l14HWMvVerr6aTuhgZkse6O/view"  target="_blank" class="button" download>Download Resume</a>
         </div>
 
         <!-- Content Section -->
