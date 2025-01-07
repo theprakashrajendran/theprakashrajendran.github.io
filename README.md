@@ -119,8 +119,14 @@
 <body>
     <!-- Header -->
     <header>
-        <h1>Prakash Rajendran</h1>
-        <p>Software Engineer | Web and Backend Specialist</p>
+        <h1>Software Engineer</h1>
+        <p>I have experience in software development, specializing in web applications, cloud solutions, and frontend/backend development using modern frameworks and tools like React.js, TypeScript, and Azure. I focus on designing and implementing scalable and efficient solutions.
+
+I have successfully handled end-to-end projects, from gathering requirements to Go Live deployment. I have worked on projects for clients like New Hemisphere (US), Nissan (Japan), Takeda (Japan), BASF (Germany), Axalta Coating Systems (US), International Drug Mart (India), and BEL (India).
+
+In addition to technical expertise, I have led projects as a Technical Lead, delivering innovative solutions and managing teams effectively.
+
+I possess strong programming skills and experience in technologies like C#, ASP.NET, ADO.NET, jQuery, JavaScript, PowerShell, Python, and Node.js.t</p>
     </header>
 
     <!-- Main Content -->
