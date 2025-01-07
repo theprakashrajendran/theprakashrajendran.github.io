@@ -120,7 +120,7 @@
     <!-- Header -->
     <header>
         <h1>Software Engineer</h1>
-        <p>Experienced software developer specializing in web applications, cloud solutions, and frontend/backend development using modern frameworks like React.js and Azure. Skilled in designing scalable solutions and leading end-to-end projects. Worked with global clients including Nissan, BASF, and Axalta Coating Systems.</p>
+        <p>Experienced software developer specializing in web applications, cloud solutions, and backend development using modern frameworks like React.js and Azure. Skilled in designing scalable solutions and leading end-to-end projects. Worked with global clients including Nissan, BASF, and Axalta Coating Systems.</p>
     </header>
 
     <!-- Main Content -->
