@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -121,7 +120,7 @@
     <!-- Header -->
     <header>
         <h1>Prakash Rajendran</h1>
-        <p>Passionate Software Engineer | Web and Backend Specialist</p>
+        <p>Software Engineer | Web and Backend Specialist</p>
     </header>
 
     <!-- Main Content -->
@@ -130,33 +129,28 @@
         <div class="sidebar">
             <h2>Contact & Links</h2>
             <div class="icons">
-                <a href="https://www.linkedin.com/in/prakashrajendran" target="_blank" title="LinkedIn">
+                <a href="https://www.linkedin.com/in/theprakashrajendran" target="_blank" title="LinkedIn">
                     <i class="fab fa-linkedin"></i>
                 </a>
-                <a href="https://github.com/prakashrajendran" target="_blank" title="GitHub">
+                <a href="https://github.com/theprakashrajendran" target="_blank" title="GitHub">
                     <i class="fab fa-github"></i>
                 </a>
-                <a href="mailto:prakash@example.com" title="Email">
+                <a href="mailto:theprakashrajendran@gmail.com" title="Email">
                     <i class="fas fa-envelope"></i>
                 </a>
             </div>
-            <a href="resume.pdf" class="button" download>Download Resume</a>
+            <a href="prakashrajendranresume.pdf" class="button" download>Download Resume</a>
         </div>
 
         <!-- Content Section -->
         <div class="content">
             <h2>Professional Experience</h2>
             <ul>
-                <li><strong>Company 1:</strong> XYZ Tech Solutions (2018-2023) - Senior Developer</li>
-                <li><strong>Company 2:</strong> ABC Corp (2016-2018) - Software Engineer</li>
-                <li><strong>Company 3:</strong> PQR Innovations (2014-2016) - Full-Stack Developer</li>
-                <li><strong>Company 4:</strong> DEF Systems (2012-2014) - Backend Developer</li>
-                <li><strong>Company 5:</strong> LMN Technologies (2010-2012) - Junior Developer</li>
-                <li><strong>Company 6:</strong> JKL Enterprises (2008-2010) - Intern</li>
-                <li><strong>Company 7:</strong> STU Softwares (2006-2008) - Trainee Developer</li>
-                <li><strong>Company 8:</strong> OPQ Ltd (2004-2006) - Developer Assistant</li>
-                <li><strong>Company 9:</strong> RST Labs (2002-2004) - Junior Programmer</li>
-                <li><strong>Company 10:</strong> UVW Solutions (2000-2002) - Entry-Level Programmer</li>
+                <li><strong>Company 1:</strong> NN Life Japan (May 2022 - Present) - Automation Cloud Engineer</li>
+                <li><strong>Company 2:</strong> TechMahindra (May 2016 - Mar 2022) - Technical Lead</li>
+                <li><strong>Company 3:</strong> Hexacorp (Jan 2014 - Apr 2016) - Senior Software Engineer</li>
+                <li><strong>Company 4:</strong> B & A Digitactical (Jan 2012 - Jan 2014) - Software Engineer</li>
+                <li><strong>Company 5:</strong> BEL (Dec 2010 - Dec 2011) - Trainee</li>
             </ul>
         </div>
     </div>
