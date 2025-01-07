@@ -119,7 +119,7 @@
 <body>
     <!-- Header -->
     <header>
-        <h1>Prakash Rajendran</h1>
+        <h1>Software Engineer</h1>
         <p>Experienced software developer specializing in web applications, cloud solutions, and frontend/backend development using modern frameworks like React.js and Azure. Skilled in designing scalable solutions and leading end-to-end projects. Worked with global clients including Nissan, BASF, and Axalta Coating Systems.</p>
     </header>
 
@@ -146,11 +146,11 @@
         <div class="content">
             <h2>Professional Experience</h2>
             <ul>
-                <li><strong>Company 1:</strong> NN Life Japan (May 2022 - Present) - Automation Cloud Engineer</li>
-                <li><strong>Company 2:</strong> TechMahindra (May 2016 - Mar 2022) - Technical Lead</li>
-                <li><strong>Company 3:</strong> Hexacorp (Jan 2014 - Apr 2016) - Senior Software Engineer</li>
-                <li><strong>Company 4:</strong> B & A Digitactical (Jan 2012 - Jan 2014) - Software Engineer</li>
-                <li><strong>Company 5:</strong> BEL (Dec 2010 - Dec 2011) - Trainee</li>
+                <li><strong>1:</strong> NN Life Japan (May 2022 - Present) - Automation Cloud Engineer</li>
+                <li><strong>2:</strong> TechMahindra (May 2016 - Mar 2022) - Technical Lead</li>
+                <li><strong>3:</strong> Hexacorp (Jan 2014 - Apr 2016) - Senior Software Engineer</li>
+                <li><strong>4:</strong> B & A Digitactical (Jan 2012 - Jan 2014) - Software Engineer</li>
+                <li><strong>5:</strong> BEL (Dec 2010 - Dec 2011) - Trainee</li>
             </ul>
         </div>
     </div>
