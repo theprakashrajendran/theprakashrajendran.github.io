@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -34,7 +33,7 @@
         .container {
             display: flex;
             flex-wrap: wrap;
-            min-height: 100vh;
+           /* min-height: 100vh;*/
         }
 
         .sidebar {
@@ -140,7 +139,7 @@
                     <i class="fas fa-envelope"></i>
                 </a>
             </div>
-            <a href="prakashrajendranresume.pdf" class="button" download>Download Resume</a>
+            <a href="https://github.com/theprakashrajendran/theprakashrajendran.github.io/blob/main/PrakashRajendranResume.pdf" class="button" download>Download Resume</a>
         </div>
 
         <!-- Content Section -->
